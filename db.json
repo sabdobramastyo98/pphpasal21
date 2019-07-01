@@ -1,0 +1,94 @@
+{
+  "pphpasal21" : [
+    {
+      "id" : 1,
+      "soal" : "Kewajiban perpajakan bagi Wajib Pajak yang diterbitkan Nomor Pokok Wajib Pajak (NPWP) secara jabatan dimulai sejak ...",
+      "jawabana" : "Wajib Pajak memiliki Nomor Pokok Wajib Pajak (NPWP)",
+      "jawabanb" : "Wajib Pajak terdaftar di Direktorat Jenderal Pajak",
+      "jawabanc" : "Wajib Pajak memiliki penghasilan di atas Penghasilan Tidak Kena Pajak (PTKP)",
+      "jawaband" : "Wajib Pajak memenuhi persyaratan subjektif dan ojektif sesuai dengan ketentuan peraturan perundang-undangan perpajakan",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 2,
+      "soal" : "Berikut ini yang termasuk Pajak Pusat yaitu ...",
+      "jawabana" : "Pajak Hotel",
+      "jawabanb" : "Pajak Kendaraan Bermotor",
+      "jawabanc" : "Pajak Restoran",
+      "jawaband" : "Bea Materai",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 3,
+      "soal" : "Berikut ini pemotong Pajak PPh pasal 21 atau PPh pasal 26, kecuali ...",
+      "jawabana" : "Bendaharawan pemerintah",
+      "jawabanb" : "Dana pensiun",
+      "jawabanc" : "Badan penyelenggaran jaminan social tenaga kerja",
+      "jawaband" : "Pejabat perwakilan diplomatic",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 4,
+      "soal" : "Penghasilan yang dipotong PPh pasal 21 adalah ...",
+      "jawabana" : "Asuransi kecelakaan",
+      "jawabanb" : "Zakat yang diterima",
+      "jawabanc" : "Gaji",
+      "jawaband" : "Penerimaan dalam bentuk natura",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 5,
+      "soal" : "Dika adalah PNS dengan status kawin dengan 1 anak, maka PTKP yang bisa dikurangkan terhadap penghasilan Dika adalah ...",
+      "jawabana" : "Rp54.000.000,-",
+      "jawabanb" : "Rp58.500.000,-",
+      "jawabanc" : "Rp63.000.000,-",
+      "jawaband" : "Rp67.500.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 6,
+      "soal" : "Penghasilan Kena Pajak Pak Toni sebesar Rp75.000.000,- . Berapakah Pajak Penghasilan yang harus dipotong Pak Toni ?",
+      "jawabana" : "Rp3.750.000,-",
+      "jawabanb" : "Rp6.250.000,-",
+      "jawabanc" : "Rp2.500.000,-",
+      "jawaband" : "Rp7.500.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 7,
+      "soal" : "Berdasarkan soal no 11 jika Pak Toni tidak memiliki NPWP maka besarnya pajak penghasilan yang harus dipotong adalah ...",
+      "jawabana" : "Rp3.750.000,-",
+      "jawabanb" : "Rp6.250.000,-",
+      "jawabanc" : "Rp2.500.000,-",
+      "jawaband" : "Rp7.500.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 8,
+      "soal" : "Toni bekerja pada PT Nusantara dengan memperoleh gaji sebulan Rp 5.500.000, dengan biaya jabatan 5% dan membayar iuran pensiun sebesar Rp 50.000/bulan. Toni sudah menikah dan belum memiliki anak. Berapakah pajak PPh 21 yang harus dibayarkan oleh Toni pertahunnya ?",
+      "jawabana" : "Rp180.000,-",
+      "jawabanb" : "Rp1.800.000,-",
+      "jawabanc" : "Rp3.600.000,-",
+      "jawaband" : "Rp540.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 9,
+      "soal" : "Berdasarkan informasi soal no 11, berapa jumlah PPh 21 yang harus dibayar tiap bulan ?",
+      "jawabana" : "Rp18.000,-",
+      "jawabanb" : "Rp32.000,-",
+      "jawabanc" : "Rp15.000,-",
+      "jawaband" : "Rp45.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 10,
+      "soal" : "Apabila Penghasilan Tahunan >Rp50 Juta s/d Rp250 Juta. Maka tarif  pajak yang dikenakan sebesar ...",
+      "jawabana" : "5%",
+      "jawabanb" : "15%",
+      "jawabanc" : "30%",
+      "jawaband" : "25%",
+      "kuncijawaban" : ""
+    }
+  ]
+  }

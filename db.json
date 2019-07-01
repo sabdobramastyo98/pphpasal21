@@ -7,7 +7,7 @@
       "jawabanb" : "Wajib Pajak terdaftar di Direktorat Jenderal Pajak",
       "jawabanc" : "Wajib Pajak memiliki penghasilan di atas Penghasilan Tidak Kena Pajak (PTKP)",
       "jawaband" : "Wajib Pajak memenuhi persyaratan subjektif dan ojektif sesuai dengan ketentuan peraturan perundang-undangan perpajakan",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Wajib Pajak memiliki Nomor Pokok Wajib Pajak (NPWP)"
     },
     {
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" : "Pajak Kendaraan Bermotor",
       "jawabanc" : "Pajak Restoran",
       "jawaband" : "Bea Materai",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Bea Materai"
     },
     {
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" : "Dana pensiun",
       "jawabanc" : "Badan penyelenggaran jaminan social tenaga kerja",
       "jawaband" : "Pejabat perwakilan diplomatic",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Pejabat perwakilan diplomatic"
     },
     {
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" : "Zakat yang diterima",
       "jawabanc" : "Gaji",
       "jawaband" : "Penerimaan dalam bentuk natura",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Gaji"
     },
     {
       "id" : 5,
@@ -43,7 +43,7 @@
       "jawabanb" : "Rp58.500.000,-",
       "jawabanc" : "Rp63.000.000,-",
       "jawaband" : "Rp67.500.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp63.000.000,-"
     },
     {
       "id" : 6,
@@ -52,7 +52,7 @@
       "jawabanb" : "Rp6.250.000,-",
       "jawabanc" : "Rp2.500.000,-",
       "jawaband" : "Rp7.500.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp6.250.000,-"
     },
     {
       "id" : 7,
@@ -61,7 +61,7 @@
       "jawabanb" : "Rp6.250.000,-",
       "jawabanc" : "Rp2.500.000,-",
       "jawaband" : "Rp7.500.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp7.500.000,-"
     },
     {
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" : "Rp1.800.000,-",
       "jawabanc" : "Rp3.600.000,-",
       "jawaband" : "Rp540.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp180.000,-"
     },
     {
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" : "Rp32.000,-",
       "jawabanc" : "Rp15.000,-",
       "jawaband" : "Rp45.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp15.000,-"
     },
     {
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" : "15%",
       "jawabanc" : "30%",
       "jawaband" : "25%",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "15%"
     }
   ]
-  }
+ }
